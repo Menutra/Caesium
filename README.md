@@ -1,5 +1,12 @@
 ![Imgur Image](https://i.imgur.com/sFNDjCV.png)
 # Caesium
+
+Pre-compiled Windows binaries are available for download here...
+https://github.com/Menutra/Caesium-Executibles/
+
+
+How to Build...
+
 Ubuntu, using Clang
 
     sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y
