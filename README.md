@@ -1,4 +1,4 @@
-![Imgur Image](https://imgur.com/sFNDjCV)
+![Imgur Image](https://i.imgur.com/sFNDjCV.png)
 # Caesium
 Ubuntu, using Clang
 
