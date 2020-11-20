@@ -190,6 +190,7 @@ const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 
 const char* const SEED_NODES[] = {
   "149.28.211.67:17289",
+  "24.9.9.113:17289",
   "108.61.158.14:17289",
   "67.176.94.193:17289"
 };
